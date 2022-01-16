@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry Cristian Cuesta Vega
-- 👀 I’m interested in Security Information and Networks
-- 🌱 I’m currently learning Javascript basics, I have knowledgment a little bit how to set up debian or centos servers as: samba, mailserver, webmail, (postfix with dovecot), actually testing this setups in Debian buster and Ubuntu Desktop.
+- 👀 I’m interested in Security Information and Network Security
+- 🌱 I’m currently learning Javascript basics,CSS3 and HTML 5. I have knowledgment a little bit how to set up debian or centos servers as: samba, mailserver, webmail, (postfix with dovecot), actually testing this setups in Debian buster and Ubuntu Desktop.
 - 💞️ I’m looking to collaborate on Javascript code, or Java code
 - 📫 How to reach me ...
 
